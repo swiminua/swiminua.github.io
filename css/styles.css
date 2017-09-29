@@ -430,12 +430,12 @@ p.prise_notpre {
 
 /*-------FOOTER_START-------*/
 .footer-wrap {
-	position: fixed;
 	display: flex;
 	justify-content: center;
 	background-color: #78909C;
 }
 .footer {
+	position: fixed;
 	align-items: center;
 	height: 70px;
 	width: 95%;
