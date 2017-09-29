@@ -430,16 +430,25 @@ p.prise_notpre {
 
 /*-------FOOTER_START-------*/
 .footer-wrap {
+	/*
 	display: flex;
 	justify-content: center;
-	background-color: #78909C;
+	background-color: #78909C;*/
+	position: fixed; /* Фиксированное положение */
+    left: 0; bottom: 0; /* Левый нижний угол */
+    padding: 10px; /* Поля вокруг текста */
+    background: #39b54a; /* Цвет фона */
+    color: #fff; /* Цвет текста */
+    width: 100%; /* Ширина слоя */
 }
 .footer {
-	align-items: center;
+	/*align-items: center;
 	height: 70px;
 	width: 95%;
 	display: flex;
 	justify-content: space-between;
+	*/
+
 }
 .footer-menu {
 	width: 80%;
