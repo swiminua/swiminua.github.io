@@ -435,7 +435,6 @@ p.prise_notpre {
 	background-color: #78909C;
 }
 .footer {
-	position: fixed;
 	align-items: center;
 	height: 70px;
 	width: 95%;
@@ -444,22 +443,6 @@ p.prise_notpre {
 }
 .footer-menu {
 	width: 80%;
-}
-.footer-menu-link {
-	font-size: 1.4rem;
-	text-decoration: none;
-	color: #fff;
-	font-weight: 500;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	padding: 10px 15px;
-	font-size: 20px;
-	margin-left: 5px;
-}
-.footer-menu-link:hover {
-	background-color: #424242;
-	border-radius: 5px;
 }
 .line {
 	margin-top: 40px;
@@ -470,6 +453,7 @@ p.prise_notpre {
 	// margin: 0 auto;
 }
 div.copyright {
+	align-items: center;
 	color: #fff;
 
 }
