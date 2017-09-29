@@ -430,6 +430,7 @@ p.prise_notpre {
 
 /*-------FOOTER_START-------*/
 .footer-wrap {
+	position: fixed;
 	display: flex;
 	justify-content: center;
 	background-color: #78909C;
@@ -443,11 +444,6 @@ p.prise_notpre {
 }
 .footer-menu {
 	width: 80%;
-}
-.footer-menu ul {
-	display: flex;
-	justify-content: space-around;
-	list-style: none;
 }
 .footer-menu-link {
 	font-size: 1.4rem;
