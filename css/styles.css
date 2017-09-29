@@ -436,7 +436,7 @@ p.prise_notpre {
 }
 .footer {
 	align-items: center;
-	height: 15vh;
+	height: 50px;
 	width: 95%;
 	display: flex;
 	justify-content: space-between;
