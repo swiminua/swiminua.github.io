@@ -434,7 +434,7 @@ p.prise_notpre {
 	display: flex;
 	justify-content: center;
 	background-color: #78909C;*/
-	position: static; /* Фиксированное положение */
+	position: relative; /* Фиксированное положение */
     left: 0; bottom: 0; /* Левый нижний угол */
     padding: 10px; /* Поля вокруг текста */
     background: #39b54a; /* Цвет фона */
