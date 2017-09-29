@@ -71,7 +71,7 @@ main {
 }
 html {
 	background: #333;
-	height: auto;
+	height: 500px auto;
 	font-family: Helvetica;
 }
 h1 {
