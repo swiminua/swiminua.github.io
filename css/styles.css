@@ -383,11 +383,10 @@ p.prise_notpre {
 	height: 500px;
 	width: 1100px;
 	display: flex;
-	text-align: center;
 	justify-content: center;
 	flex-wrap: wrap;
 	border-radius: 5px;
-	padding: 20px;
+	padding-top: 60px;
 	font-size: 20px;
 
 }
