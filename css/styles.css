@@ -374,6 +374,10 @@ p.prise_notpre {
 	-o-transition:  height 0s linear;
 	transition:  height 0s linear;
 }
+.page_num:hover {
+	background-color: #fff;
+	color: #424242;
+}
 /*-----BLOG_END-------*/
 /*--------------delivery_START----------------*/
 .container_delivery {
