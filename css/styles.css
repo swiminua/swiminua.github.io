@@ -476,10 +476,11 @@ div.copyright {
 div#qTip {
 	padding: 3px;
 	border: 1px solid #666;
+	border-radius: 5px;
 	display: none;
-	background: #e6fff5;
-	color: #000;
-	font-size: 14px;
+	background: #78909C;
+	color: #f44336;
+	font-size: 8px;
 	text-align: left;
 	position: absolute;
 	z-index: 1000;
