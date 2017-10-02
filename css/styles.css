@@ -209,6 +209,7 @@ img {
 	max-width: 100%;
 }
 body {
+	height: 300px auto;
 	font-size: 17px;
 	line-height: 1.4;
 }
