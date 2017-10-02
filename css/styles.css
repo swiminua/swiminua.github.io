@@ -472,3 +472,18 @@ div.copyright {
 	color: #fff;
 
 }
+/*podskazka*/
+div#qTip {
+	padding: 3px;
+	border: 1px solid #666;
+	display: none;
+	background: #e6fff5;
+	color: #000;
+	font-size: 14px;
+	text-align: left;
+	position: absolute;
+	z-index: 1000;
+	opacity:0.9;
+	filter:alpha(opacity=90);
+	-moz-opacity:0.9;
+	}
