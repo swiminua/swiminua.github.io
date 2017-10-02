@@ -478,9 +478,9 @@ div#qTip {
 	border: 1px solid #666;
 	border-radius: 5px;
 	display: none;
-	background: #78909C;
+	background: #F5F5F5;
 	color: #f44336;
-	font-size: 8px;
+	font-size: 12px;
 	text-align: left;
 	position: absolute;
 	z-index: 1000;
