@@ -447,6 +447,8 @@ p.prise_notpre {
 .footer-wrap {
 	display: flex;
 	justify-content: center;
+	flex-direction: column;
+  	height: 100%;
 	background-color: #78909C;
 }
 .footer {
