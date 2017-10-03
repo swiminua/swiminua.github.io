@@ -451,28 +451,23 @@ p.prise_notpre {
 .footer-wrap {
 	position: absolute;
     bottom: 0;
-	display: flex;
+	display: block;
 	justify-content: center;
 	background-color: #78909C;
-	width: 95%;
-}
-.footer {
-	align-items: center;
+	width: 100%;
 	height: 70px;
-	display: flex;
-	justify-content: space-between;
 }
 .footer-menu {
-	width: 80%;
-}
-.line {
-	margin-top: 40px;
-	display: block;
 	width: 100%;
-	height: 1px;
-	background-color: #78909C;
-	// margin: 0 auto;
 }
+// .line {
+// 	margin-top: 40px;
+// 	display: block;
+// 	width: 100%;
+// 	height: 1px;
+// 	background-color: #78909C;
+// 	// margin: 0 auto;
+// }
 div.copyright {
 	align-items: center;
 	color: #fff;
