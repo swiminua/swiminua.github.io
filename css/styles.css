@@ -450,15 +450,12 @@ p.prise_notpre {
 .footer-wrap {
 	display: flex;
 	justify-content: center;
-	min-height: 100%;
-	flex-direction: column;
 	background-color: #78909C;
 }
 .footer {
 	align-items: center;
 	height: 70px;
 	width: 95%;
-	height: 80px;
 	display: flex;
 	justify-content: space-between;
 }
