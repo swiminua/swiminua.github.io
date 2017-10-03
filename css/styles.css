@@ -449,16 +449,16 @@ p.prise_notpre {
 
 /*-------FOOTER_START-------*/
 .footer-wrap {
+	position: absolute;
+    bottom: 0;
 	display: flex;
 	justify-content: center;
 	background-color: #78909C;
+	width: 95%;
 }
 .footer {
-	position: absolute;
-    bottom: 0;
 	align-items: center;
 	height: 70px;
-	width: 95%;
 	display: flex;
 	justify-content: space-between;
 }
