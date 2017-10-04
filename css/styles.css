@@ -470,5 +470,8 @@ p.prise_notpre {
 div.copyright {
 	align-items: center;
 	color: #fff;
-
+}
+.insta {
+	color: #000;
+	text-decoration: none;
 }
