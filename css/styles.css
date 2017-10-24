@@ -62,6 +62,11 @@ a {
 	border-right: 5px;
 	border-radius: 5px;
 }
+.rar {
+	// border: 1px solid red;
+	border-radius: 5px;
+	background-color: #F44336;
+}
 /*-------SIDEBAR_END-------*/
 
 /*-------SLIDEBAR_START-------*/
