@@ -461,6 +461,7 @@ p.prise_notpre {
 }
 .live {
 	float: right;
+	margin-right: 15px;
 }
 /*--------------delivery_END----------------*/
 
