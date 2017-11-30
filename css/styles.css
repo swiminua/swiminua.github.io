@@ -459,6 +459,9 @@ p.prise_notpre {
 	color: #4CAF50;
 	font-weight: bold;
 }
+.live {
+	float: right;
+}
 /*--------------delivery_END----------------*/
 
 /*-------FOOTER_START-------*/
