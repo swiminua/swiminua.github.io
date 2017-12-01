@@ -456,7 +456,8 @@ p.prise_notpre {
 	font-weight: bold;
 }
 .nal {
-	color: #4CAF50;
+	// color: #4CAF50;
+	color: #2196F3;
 	font-weight: bold;
 }
 .live {
