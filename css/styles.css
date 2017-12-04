@@ -96,12 +96,12 @@ html {
 	max-width: 1000px;
 	position: absolute;
 	margin-top: 9px;
-	margin-left: 10px;
+	margin-left: 100px;
 }
 h1 {
 	text-align: center;
 	color: #fff;
-	padding: 0 0 300px 320px;
+	padding: 0 0 0 330px;
 	margin-top: 10px;
 }
 // .slideshow-container {
