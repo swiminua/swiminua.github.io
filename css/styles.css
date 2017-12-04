@@ -93,10 +93,11 @@ html {
 	font-family: Helvetica;
 }
 .slideshow-container {
-	min-width: 1000px;
+	max-width: 1000px;
 	position: absolute;
 	margin-top: 9px;
-	margin-left: 100px;
+	margin-left: 200px;
+	margin-right: 200px;
 }
 h1 {
 	text-align: center;
