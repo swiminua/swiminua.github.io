@@ -93,14 +93,14 @@ html {
 	font-family: Helvetica;
 }
 .slideshow-container {
-	max-width: 600px;
+	max-width: 1000px;
 	position: absolute;
 	margin-top: 9px;
 }
 h1 {
 	text-align: center;
 	color: #fff;
-	margin-left: 300px;
+	margin-left: 400px;
 	margin-top: 10px;
 }
 // .slideshow-container {
