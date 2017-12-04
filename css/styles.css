@@ -100,7 +100,7 @@ html {
 h1 {
 	text-align: center;
 	color: #fff;
-	margin-left: 300px;
+	margin: 0 0 100px 100px;
 	margin-top: 10px;
 }
 // .slideshow-container {
