@@ -93,6 +93,7 @@ html {
 	font-family: Helvetica;
 }
 .slideshow-container {
+	min-width: 1000px;
 	position: absolute;
 	margin-top: 9px;
 	margin-left: 100px;
