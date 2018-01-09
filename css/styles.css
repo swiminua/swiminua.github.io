@@ -457,8 +457,13 @@ p.prise_notpre {
 }
 .nal {
 	// color: #4CAF50;
-	color: #2196F3;
 	font-weight: bold;
+	background-color: #2196F3;
+	// position: relative;
+    margin: 0px 65px 0px 70px;
+    border-radius: 10px;
+    font-size: 15px;
+    color: #FFF;
 }
 .live {
 	float: right;
