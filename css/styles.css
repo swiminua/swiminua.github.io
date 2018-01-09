@@ -456,13 +456,12 @@ p.prise_notpre {
 	font-weight: bold;
 }
 .nal {
-	// color: #4CAF50;
-	font-weight: bold;
 	background-color: #2196F3;
-	// position: relative;
-    margin: 0px 65px 0px 70px;
+	position: relative;
+	padding: 1px;
+    margin: 0px 60px 0px 60px;
     border-radius: 10px;
-    font-size: 15px;
+    font-size: 14px;
     color: #FFF;
 }
 .live {
