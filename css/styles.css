@@ -63,15 +63,6 @@ a {
 	border-right: 5px;
 	border-radius: 5px;
 }
-.rar {
-	// border: 1px solid red;
-	border-radius: 5px;
-	background-color: #F44336;
-}
-// .new {
-// 	border-radius: 5px;
-// 	background-color: #4CAF50;
-// }
 /*-------SIDEBAR_END-------*/
 
 /*-------SLIDEBAR_START-------*/
@@ -395,6 +386,13 @@ p.prise_notpre {
 .page_num:hover {
 	background-color: #fff;
 	color: #424242;
+}
+.new {
+	border: 1px solid red;
+	padding: 4px;
+	border-radius: 5px;
+	color: #fff;
+	background-color: #F44336;
 }
 /*-----BLOG_END-------*/
 /*--------------delivery_START----------------*/
