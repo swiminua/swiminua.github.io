@@ -148,6 +148,16 @@ h1 {
 	animation-name: fade;
 	animation-duration: 1.5s;
 }
+.safeten {
+	background-color: #f44336;
+	position: relative;
+	width: 170px;
+	padding: 10px;
+    margin: 20px 600px 10px 350px;
+    border-radius: 10px;
+    font-size: 16px;
+    color: #FFF;
+}
 img {
 	border-radius: 5px;
 }
