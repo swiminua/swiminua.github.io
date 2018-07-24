@@ -245,8 +245,8 @@ body {
 	box-sizing: border-box;
 }
 .card {
-	height: 33%; /*все карточки одного размера*/
-	width: 33%; /*все карточки одного размера*/
+	height: 31%; /*все карточки одного размера*/
+	width: 31%; /*все карточки одного размера*/
 	text-align: center;
 	position: relative;
 	margin-bottom: 20px;
