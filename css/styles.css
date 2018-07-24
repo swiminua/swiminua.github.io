@@ -153,7 +153,7 @@ h1 {
 	position: relative;
 	width: 170px;
 	padding: 10px;
-    margin: 20px 300px 10px 300px;
+    margin: 20px 600px 10px 350px;
     border-radius: 10px;
     font-size: 16px;
     color: #FFF;
@@ -464,7 +464,16 @@ p.prise_notpre {
 	font-weight: bold;
 }
 .nal {
-	background-color: #2196F3;
+	background-color: rgb(255, 83, 0);
+	position: relative;
+	padding: 1px;
+    margin: 0px 60px 0px 60px;
+    border-radius: 10px;
+    font-size: 14px;
+    color: #FFF;
+}
+.sklad {
+	background-color: #2196F3 ;
 	position: relative;
 	padding: 1px;
     margin: 0px 60px 0px 60px;
