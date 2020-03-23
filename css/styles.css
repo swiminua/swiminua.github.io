@@ -81,6 +81,8 @@ html {
 	height: 100%;
 	background: #212121;
 	height: auto;
+	width: 100%;
+	width: auto;
 	font-family: Helvetica;
 }
 h1 {
