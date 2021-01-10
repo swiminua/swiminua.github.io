@@ -334,11 +334,11 @@ p.name_product {
 	font-weight: bold;
 }
 p.prise_pre {
-	color: #e57373;
+	color: #64B5F6;
 	font-weight: bold;
 }
 p.prise_notpre {
-	color: #64B5F6;
+	color: #e57373 ;
 	font-weight: bold;
 }
 .animate
