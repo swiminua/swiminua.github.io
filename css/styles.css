@@ -425,7 +425,7 @@ p.prise_pre {
 }
 .container_paid {
 	max-width: 1100px;
-	margin 0 auto;
+	margin: 0 auto;
 	background-color: #F5F5F5;
 	margin-top: 15px;
 	height: 800px;
