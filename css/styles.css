@@ -334,13 +334,8 @@ p.name_product {
 	font-weight: bold;
 }
 p.prise_pre {
-	background-color: #009688 ;
-	position: relative;
-	padding: 1px;
-    margin: 0px 60px 0px 60px;
-    border-radius: 10px;
-    font-size: 14px;
-    color: #FFF;
+	color: #4caf50;
+	font-weight: bold;
 }
 .animate
 {
@@ -468,8 +463,13 @@ p.prise_pre {
     color: #FFF;
 }
 .sklad {
-	color: #4caf50;
-	font-weight: bold;
+	background-color: #009688 ;
+	position: relative;
+	padding: 1px;
+    margin: 0px 60px 0px 60px;
+    border-radius: 10px;
+    font-size: 14px;
+    color: #FFF;
 }
 .live {
 	float: right;
