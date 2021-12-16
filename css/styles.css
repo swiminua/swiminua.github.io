@@ -463,13 +463,13 @@ p.prise_pre {
     color: #FFF;
 }
 .sklad {
-	background-color: #4dd0e1;
+	background-color: #ffca28;
 	position: relative;
 	padding: 1px;
     margin: 0px 60px 0px 60px;
     border-radius: 10px;
     font-size: 14px;
-    color: #FFF;
+    color: #424242;
 }
 .stock {
 	background-color: #4db6ac;
