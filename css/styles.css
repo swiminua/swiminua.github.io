@@ -454,7 +454,7 @@ p.prise_pre {
 	font-weight: bold;
 }
 .zakaz {
-	background-color: rgb(255, 83, 0);
+	background-color: #ff7043;
 	position: relative;
 	padding: 1px;
     margin: 0px 60px 0px 60px;
@@ -463,7 +463,16 @@ p.prise_pre {
     color: #FFF;
 }
 .sklad {
-	background-color: #009688 ;
+	background-color: #4dd0e1;
+	position: relative;
+	padding: 1px;
+    margin: 0px 60px 0px 60px;
+    border-radius: 10px;
+    font-size: 14px;
+    color: #FFF;
+}
+.stock {
+	background-color: #4db6ac;
 	position: relative;
 	padding: 1px;
     margin: 0px 60px 0px 60px;
